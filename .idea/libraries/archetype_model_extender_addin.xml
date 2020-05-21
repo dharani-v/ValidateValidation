@@ -1,0 +1,48 @@
+<component name="libraryTable">
+  <library name="archetype-model-extender-addin">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/archetype-model-extender-addin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/ascii-plugin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/asciifixed-plugin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/bai-plugin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/cassandra-addin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/ccb-plugin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/ccbaddin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/cfc-plugin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/codecoverage-addin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/composer.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/conductor.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/cppjavabridge-addin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/cpui.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/csvexport.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/datagen.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/deployer.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/docker-addin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/document-plugin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/dynamicforms.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/excel-plugin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/fast-plugin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/fix-plugin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/fpml-plugin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/hadoop-addin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/idoc-plugin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/idocxml-plugin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/installer.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/iso8583-plugin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/itch-ouch-plugin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/javacg.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/javasimulator.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/jsonschema-addin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/MappingSpec-Importer.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/maven-addin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/micrometer-addin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/mongodb-addin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/pojo-plugin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/protobuf-addin.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/report.jar!/" />
+      <root url="jar://$USER_HOME$/installation_trainees/SilentInstallation620/Volante6.2.1/plugin/restservice-addin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
